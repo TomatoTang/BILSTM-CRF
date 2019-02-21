@@ -13,6 +13,6 @@ NER|基于Boson数据集
 
 用Train.ipynb的run(2)实现的输出为：
 
-        BILSTM-CRF/image/image1.png
+![image](https://github.com/TomatoTang/BILSTM-CRF/blob/master/image/image1.png)
       
 
