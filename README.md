@@ -1,7 +1,7 @@
 # BILSTM-CRF
 NER|基于Boson数据集
 
-采用的训练集数据是玻森数据提供的命名实体识别数据，可以在https://bosonnlp.com/的数据集里下载，或者直接用BosonNLP_NER_6C.txt
+采用的训练集数据是玻森数据提供的命名实体识别数据，可以在 https://bosonnlp.com/ 的数据集里下载，或者直接用BosonNLP_NER_6C.txt
 
 原始数据如下：
 
