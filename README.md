@@ -2,9 +2,7 @@
 NER|基于Boson数据集
 
       
-windows 10
-python 3.7
-tensorflow 1.12.0
+windows 10| python 3.7| tensorflow 1.12.0
 
 采用的训练集数据是玻森数据提供的命名实体识别数据，可以在 https://bosonnlp.com/ 的数据集里下载，或者直接用BosonNLP_NER_6C.txt
 
